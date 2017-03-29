@@ -1,1 +1,1 @@
-dnsmanager
+Aplikacja zażądzająca serwerem DNS
